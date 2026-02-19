@@ -20,8 +20,7 @@
 
 - 🦜 Fun fact **I have a small farm with parrots and chicken.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
