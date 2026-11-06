@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://4kwallpapers.com/images/walls/thumbs_3t/15168.png" alt="png" /> </p>
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Ghost</h1>
 <h3 align="center">Cybersecurity • AI • SAP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truecrypt313&label=Profile%20views&color=0e75b6&style=flat" alt="truecrypt313" /> </p>
@@ -8,17 +8,17 @@
 
 <img width="55%" align="right" alt="Github" src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" />
 
-- 🔭 I’m currently working on LLM token cost optimization (TCO) in Workflows **TCO(LiteLLM + OpenRouter)**
+- 🔭 I’m currently working on HCP MCP in BTP using Terraform
 
-- 🌱 I’m exploring **new stages of expertise in LLMs and Security by Design**
+- 🌱 I’m exploring **new stages of expertise in AI integration into SAP software and Security by Design**
   
 - 🏢 I’m currently hired in a Tech Company for private and hybrid Cloud Services
 
-- 💬 Ask me about **LLMs, Web3, Cloud Computing, (AI-)Cybersecurity.**
+- 💬 Ask me about **LLMs, Web3, Cloud Computing, Cybersecurity.**
 
-- 📫 Ping me at **dib.ahm@web.de**
+- 📫 Ping me at **[PLACEHOLDER]@web.de**
 
-- 🦜 Fun fact **I have a small farm with parrots and chicken.**
+- 🦜 Fun fact **I have parrots and chicken.**
 
 
 </p>
