@@ -8,7 +8,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" />
 
-- 🔭 I’m currently working on AI-Assisted SAP BTP/BAIP Enterprise Landing Zone using Terraform, HCP Terraform and MCP
+- 🔭 I’m currently working on **AI-Assisted SAP BTP/BAIP Agentic Infrastructure-as-Code (IaC) using Terraform, HCP Terraform and MCP**
 
 - 🌱 I’m exploring **new stages of expertise in AI integration into SAP software and Security by Design**
   
