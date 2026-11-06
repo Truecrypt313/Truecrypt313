@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://4kwallpapers.com/images/walls/thumbs_3t/15168.png" alt="png" /> </p>
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">Cybersecurity • AI-Agents • Automation</h3>
+<h3 align="center">Cybersecurity • AI • SAP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truecrypt313&label=Profile%20views&color=0e75b6&style=flat" alt="truecrypt313" /> </p>
 
